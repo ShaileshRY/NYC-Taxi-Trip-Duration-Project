@@ -10,6 +10,6 @@
 of the Linear Model.
 5. Build a Decision tree model for the given dataset. Attempt to interpret the variable importance.
 6. Plot the following Bar plots:
-A. train score of all the above models.
-B. test (not validation!) score of all the above models.
-C. Attempt to explain the observations from the plots (optional)
+    * train score of all the above models.
+    * test (not validation!) score of all the above models.
+    * Attempt to explain the observations from the plots (optional)
